@@ -1,3 +1,4 @@
+//read and print n items in an array//
 #include<stdio.h>
 int main()
 {
