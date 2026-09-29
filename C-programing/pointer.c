@@ -12,5 +12,6 @@ int main()
     printf("&x=%p\n",&x);// &x gives the address of x
     printf("p=%p\n",p);// p stores the address of x
     printf("&p=%p\n",&p);// &p gives the address of p
+    
     return 0;
 }
