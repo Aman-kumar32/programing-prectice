@@ -4,11 +4,11 @@ int main()
 {
     int a, b, c, largest;
     printf("Enter 1st integer: ");
-    scanf("%d", &a);
+    scanf("%d\n", &a);
     printf("Enter 2nd integer: ");
-    scanf("%d", &b);
+    scanf("%d\n", &b);
     printf("Enter 3rd integer: ");
-    scanf("%d", &c);
+    scanf("%d\n", &c);
     largest = a;
     if (b > largest)
         largest = b;
